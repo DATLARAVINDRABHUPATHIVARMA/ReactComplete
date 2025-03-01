@@ -3,4 +3,4 @@ const Item = ({ warrior }) => {
     <span className="bit">{warrior}</span></li>;
 };
 
-export default Item;ghjkl;
+export default Item;ghj
