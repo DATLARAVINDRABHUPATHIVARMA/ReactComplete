@@ -3,4 +3,5 @@ const Item = ({ warrior }) => {
     <span className="bit">{warrior}</span></li>;
 };
 
-export default Item;
+export default Item; 
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam deleniti, commodi iusto consectetur corrupti obcaecati.
