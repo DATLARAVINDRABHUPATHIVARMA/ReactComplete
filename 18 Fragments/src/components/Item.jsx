@@ -4,4 +4,4 @@ const Item = ({ warrior }) => {
 };
 
 export default Item; 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam deleniti, commodi iusto consectetur corrupti
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam deleniti, commodi iusto 
