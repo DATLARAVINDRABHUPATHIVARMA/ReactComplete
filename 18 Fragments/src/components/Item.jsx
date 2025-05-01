@@ -4,4 +4,3 @@ const Item = ({ warrior }) => {
 };
 
 export default Item; 
-Lorem 
