@@ -5,7 +5,7 @@ function Random() {
   let queen = 'Radha';
 
   
-  return <h1 style={{"background-color" : "#768456"}}>Today while enemies attacking I protected Queen {queen} {Math.round(number1)} times and Princess {myPrincessName} {Math.round(number2)} times with my war strategy</h1>
+  return <h1 style={{"background-color" : "#768456" }} >Today while enemies attacking I protected Queen {queen} {Math.round(number1)} times and Princess {myPrincessName} {Math.round(number2)} times with my war strategy</h1>
 }
 
 export default Random;
