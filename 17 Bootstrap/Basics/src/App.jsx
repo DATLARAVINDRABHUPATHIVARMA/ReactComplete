@@ -14,8 +14,8 @@ function App() {
       <button type="button" class="btn btn-warning">Radha The Queen</button>
       <button type="button" class="btn btn-info">Rangavathi Queen Mother</button>
       <button type="button" class="btn btn-light">Leo The Guard</button>
-      <button type="button" class="btn btn-dark">Suryavathi </button>
-      <button type="button" class="btn btn-link">Trisha</button>
+      <button type="button" class="btn btn-dark">Suryavathi The Grand Warden</button>
+      <button type="button" class="btn btn-link">Trisha The Minister</button>
     </div> 
   )
 }
