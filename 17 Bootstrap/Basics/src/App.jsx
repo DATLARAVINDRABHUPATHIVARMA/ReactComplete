@@ -7,7 +7,7 @@ function App() {
 
   return (
     <div>
-      <button type="button" class="btn btn-primary">Sruthi The Highness Main Head of the Clan</button>
+      <button type="button" class="btn btn-primary">Sruthi The Highness and Main Head of the Clan</button>
       <button type="button" class="btn btn-secondary">Sravani The Princess</button>
       <button type="button" class="btn btn-success">Suneel The King</button>
       <button type="button" class="btn btn-danger">Ravindra The Protector and Commander-in-Chief of dynasty </button>
