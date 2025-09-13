@@ -7,7 +7,7 @@ function HelloSruthi() {
   let myRole = "General Warrior"
   let myPrincessName = 'Sruthi'
   return(
-    <div>Hello, My name is {}, I'm Protector of the entire clan and my role is {myRole}.  I'm always loyal to Queen {myQueen} and Princess {myPrincessName}. Here the head of the clan will be our Honorable Princess <strong>{myPrincessName}</strong> and {King()} will be King of our Regal  dynasty</div>
+    <div>Hello, My name is {}, I'm Protector of the entire clan and my role is {myRole}.  I'm always loyal to Queen {myQueen} and Princess {myPrincessName}. Here the head of the clan will be our Honorable Princess <h1> <i>{myPrincessName}</i></h1> and {King()} will be King of our Regal  dynasty</div>
   )
 }
 
