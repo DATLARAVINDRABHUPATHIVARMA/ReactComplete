@@ -1,16 +1,12 @@
 function App() {
 
   return (
-    <div >
-      <button type="button" class="btn btn-primary">Sruthi The Highness and Main Head of the Clan</button>
-      <button type="button" class="btn btn-secondary">Sravani The Princess</button>
-      <button type="button" class="btn btn-success">Suneel The King</button>
-      <button type="button" class="btn btn-danger">Ravindra The Protector and Commander-in-Chief of dynasty </button>
-      <button type="button" class="btn btn-warning">Radha The Queen</button>
-      <button type="button" class="btn btn-info">Rangavathi</button>
-      <button type="button" class="btn btn-light">Leo The Guard</button>
-      <button type="button" class="btn btn-dark">Suryavathi The Grand Warden</button>
-      <button type="button" class="btn btn-link">Trisha The Minister</button>
+    <div class="m-2">
+      <button type="button" class="m-2 btn btn-primary">Sruthi The Highness Emperor</button>
+      <button type="button" class="m-2 btn btn-secondary">Sravani The Princess</button>
+      <button type="button" class="m-2 btn btn-success">Suneel The King</button>
+      <button type="button" class="m-2 btn btn-warning">Radha The Queen</button>
+      <button type="button" class="m-2 btn btn-danger">Ravindra The Protector and Commander-in-Chief of dynasty </button>
     </div> 
   )
 }
