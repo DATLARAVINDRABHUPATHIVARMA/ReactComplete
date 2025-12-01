@@ -6,7 +6,7 @@ function App() {
       <button type="button" class="m-2 btn btn-secondary">Sravani The Princess</button>
       <button type="button" class="m-2 btn btn-success">Suneel The Wise King</button>
       <button type="button" class="m-2 btn btn-warning">Radha The Queen</button>
-      <button type="button" class="m-2 btn btn-danger">Ravindra The loyal Protector and Commander-in-Chief of dynasty </button> 
+      <button type="button" class="m-2 btn btn-danger">Ravindra The loyal Protector and Commander-in-Chief of dynasty </button>
       <button type="button" class="m-2 btn btn-info">Rangavathi The Great Wise Queen Mother</button>
     </div>)
 }
