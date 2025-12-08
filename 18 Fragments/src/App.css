@@ -1,10 +1,10 @@
-.ab{
-    background-color: rgb(2, 126, 167);
-    color: brown;
+.highlight {
+    background-color: rgb(32, 171, 218);
+    color: rgb(85, 0, 0);
     font-weight: bold;
 }
 
-.titled {
+.titled{
     text-align: center;
     color: brown;
     background-color: lightgray;
