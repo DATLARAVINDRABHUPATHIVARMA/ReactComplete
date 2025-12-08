@@ -1,0 +1,11 @@
+.ab{
+    background-color: rgb(2, 126, 167);
+    color: brown;
+    font-weight: bold;
+}
+
+.titled {
+    text-align: center;
+    color: brown;
+    background-color: lightgray;
+}
