@@ -1,5 +1,4 @@
 import './App.css'
-import React from 'react' 
 
 function App() {
  let warriors = ["Maharathi Radheya Ravindra", "Highness Yuvarani Sruthi", "Srujan", "Yok Shit", "Sanvika pit"]
