@@ -1,4 +1,4 @@
-
+import "./app.css"
 import ErrorMessage from './components/ErrorMessage'
 import Warriors from './components/Warriors'
 import "bootstrap/dist/css/bootstrap.min.css"
