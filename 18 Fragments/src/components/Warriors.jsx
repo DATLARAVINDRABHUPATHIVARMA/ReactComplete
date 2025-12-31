@@ -9,4 +9,4 @@ const Warriors = ({wars}) => {
     );
 }
 
-export default Warriors 
+export default Warriors;
