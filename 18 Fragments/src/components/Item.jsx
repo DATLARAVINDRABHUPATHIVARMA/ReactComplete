@@ -1,4 +1,4 @@
-const Item = ({ warrior }) => {
+const Item = ({warrior}) => {
   return (
     <li className="list-group-item highlight">
       <span className="bit">{warrior}</span>
